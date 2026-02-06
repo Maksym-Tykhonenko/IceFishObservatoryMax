@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "fonts/SFProText-Semibold.ttf",
+      "sha1": "9560ae412d73c7c9af72333db50464b4e597b0f9"
+    },
+    {
+      "path": "fonts/Montserrat-Regular.ttf",
+      "sha1": "1c8119b38eef1914a4fbd9f6cfdedf198445ab97"
+    },
+    {
+      "path": "fonts/Sansation-Bold.ttf",
+      "sha1": "fd940394e7d78ee62f32937c5e6bd7ea6147f111"
+    },
+    {
+      "path": "fonts/Sansation-Italic.ttf",
+      "sha1": "4532139e8ddb32679ea7e9ecd7931e1c119988e9"
+    }
+  ]
+}
